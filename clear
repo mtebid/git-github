@@ -1,0 +1,23 @@
+[33mcommit a695eddbeddb42cae1d2b9b68cad6b1f2a4ee04c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: unknown <you@example.com>
+Date:   Sat May 21 09:02:23 2022 +0530
+
+    commiting three files
+
+[33mcommit 6749d3581bd47fa4c539e92c0611331c4d94f423[m
+Author: unknown <you@example.com>
+Date:   Sat May 21 08:56:12 2022 +0530
+
+    commiting my first file
+
+[33mcommit d074598b8c408d350f3327786883077922cdf955[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: mtebid <105900722+mtebid@users.noreply.github.com>
+Date:   Sat May 21 08:07:53 2022 +0530
+
+    Update README.md
+
+[33mcommit 7b47e545ff1924ff8db238c257e725403f4091c2[m
+Author: mtebid <105900722+mtebid@users.noreply.github.com>
+Date:   Sat May 21 08:06:11 2022 +0530
+
+    Initial commit
